@@ -5,6 +5,7 @@ public class Teste {
 		
 		System.out.println("Testando projeto com Github");
 		// ae , bora começar
+		alou();
 		
 	}
 	
