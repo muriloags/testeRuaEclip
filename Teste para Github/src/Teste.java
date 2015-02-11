@@ -8,7 +8,7 @@ public class Teste {
 		
 	}
 	
-	public static alou()
+	public void alou()
 	{
 		System.out.println("Testando a partir do git");
 		//push do github para o eclipse
